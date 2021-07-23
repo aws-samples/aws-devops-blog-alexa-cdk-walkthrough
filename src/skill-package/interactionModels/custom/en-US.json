@@ -1,0 +1,34 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "time teller",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "TellTimeIntent",
+                    "slots": [],
+                    "samples": [
+                        "what time is it",
+                        "what's the time"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
