@@ -3,7 +3,7 @@
 
 ## AWS DevOps Blog Post Code Sample
 
-The AWS DevOps blog post [Deploy Alexa Skills with the AWS CDK]() demonstrates how to leverage the AWS CDK to achieve Infrastructure-as-Code for your Alexa Skills. The solution uses [an open-source construct library](https://www.npmjs.com/package/cdk-alexa-skill) to deploy a simple "Time Teller" Alexa skill via the AWS CDK.
+The AWS DevOps blog post [Deploy Alexa Skills with the AWS CDK](https://aws.amazon.com/blogs/devops/deploying-alexa-skills-with-aws-cdk/) demonstrates how to leverage the AWS CDK to achieve Infrastructure-as-Code for your Alexa Skills. The solution uses [an open-source construct library](https://www.npmjs.com/package/cdk-alexa-skill) to deploy a simple "Time Teller" Alexa skill via the AWS CDK.
 
 ### Usage
 
